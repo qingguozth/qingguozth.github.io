@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <subtitle>新故相推，日生不滞</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-02T03:19:07.448Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Qing Guo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zth</title>
+    <link href="http://yoursite.com/2018/07/21/zth/"/>
+    <id>http://yoursite.com/2018/07/21/zth/</id>
+    <published>2018-07-21T10:21:16.000Z</published>
+    <updated>2018-08-02T03:19:07.448Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级表题"><a href="#三级表题" class="headerlink" title="三级表题"></a>三级表题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>####### 七级标题  // 错误代码</p><p>########  八级标题  // 错误代码</p><p>世界如此美好<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">int main() </span><br><span class="line">&#123;</span><br><span class="line">  cout&lt;&lt;&quot;全世界都在等待着你的成功&quot;&lt;&lt;endl;</span><br><span class="line">  return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>世界如此美好</p><pre><code>int main() {  cout&lt;&lt;&quot;hello,world&quot;&lt;&lt;endl;  return 0;}</code></pre><p>世界如此美好<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> num = <span class="number">0</span>;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">5</span>; i++) &#123;</span><br><span class="line">    num+=i;</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.log(num);</span><br></pre></td></tr></table></figure></p><p>世界如此美好<br>Use the <code>printf(&quot;全世界都在等待着你的成功&quot;)</code> function.</p><p><del>世界如此美好</del></p><p><del>我却如此糟糕</del></p><p>全世界都在等待着你的成功</p><table><thead><tr><th style="text-align:center">a</th><th style="text-align:left">b</th><th style="text-align:right">c</th></tr></thead><tbody><tr><td style="text-align:center">居中</td><td style="text-align:left">左对齐</td><td style="text-align:right">右对齐</td></tr><tr><td style="text-align:center">=========</td><td style="text-align:left">===============</td><td style="text-align:right">============</td></tr></tbody></table><table><thead><tr><th style="text-align:center">a</th><th style="text-align:left">b</th><th style="text-align:right">c</th></tr></thead><tbody><tr><td style="text-align:center">居中</td><td style="text-align:left">左对齐</td><td style="text-align:right">右对齐</td></tr><tr><td style="text-align:center">=========</td><td style="text-align:left">===============</td><td style="text-align:right">============</td></tr></tbody></table><p><a href="http://www.baidu.com/&quot;百度一下&quot;" target="_blank" rel="noopener">百度1</a></p><p>[百度2][2]{:target=”_blank”}<br>[2]: <a href="http://www.baidu.com/" target="_blank" rel="noopener">http://www.baidu.com/</a>   “百度二下”</p><p><a href="mailto:&#x31;&#x39;&#50;&#49;&#x37;&#54;&#52;&#x31;&#49;&#50;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;" target="_blank" rel="noopener">&#x31;&#x39;&#50;&#49;&#x37;&#54;&#52;&#x31;&#49;&#50;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+      <category term="标题2" scheme="http://yoursite.com/categories/%E6%A0%87%E9%A2%982/"/>
+    
+    
+      <category term="标题1" scheme="http://yoursite.com/tags/%E6%A0%87%E9%A2%981/"/>
+    
+      <category term="表格" scheme="http://yoursite.com/tags/%E8%A1%A8%E6%A0%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my-first-blog</title>
+    <link href="http://yoursite.com/2018/07/20/my-first-blog/"/>
+    <id>http://yoursite.com/2018/07/20/my-first-blog/</id>
+    <published>2018-07-20T13:10:03.000Z</published>
+    <updated>2018-07-20T13:10:03.433Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>postname</title>
+    <link href="http://yoursite.com/2018/07/20/postname/"/>
+    <id>http://yoursite.com/2018/07/20/postname/</id>
+    <published>2018-07-20T12:59:20.000Z</published>
+    <updated>2018-07-20T12:59:20.296Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/07/20/hello-world/"/>
+    <id>http://yoursite.com/2018/07/20/hello-world/</id>
+    <published>2018-07-20T12:20:11.044Z</published>
+    <updated>2018-07-20T12:20:11.044Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

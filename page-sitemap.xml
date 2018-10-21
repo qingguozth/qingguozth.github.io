@@ -8,35 +8,35 @@
     
     <url>
         <loc>http://yoursite.com/about/</loc>
-        <lastmod>2018-07-25T15:46:47.654Z</lastmod>
+        <lastmod>2018-07-25T15:46:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://yoursite.com/message/</loc>
-        <lastmod>2018-07-25T15:45:49.844Z</lastmod>
+        <lastmod>2018-07-25T15:45:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://yoursite.com/categories/</loc>
-        <lastmod>2018-07-25T15:43:56.714Z</lastmod>
+        <lastmod>2018-07-25T15:43:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://yoursite.com/tags/</loc>
-        <lastmod>2018-07-25T15:01:44.437Z</lastmod>
+        <lastmod>2018-07-25T15:01:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://yoursite.com/postname/</loc>
-        <lastmod>2018-07-20T13:00:03.085Z</lastmod>
+        <lastmod>2018-07-20T13:00:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

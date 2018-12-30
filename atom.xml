@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-21T07:53:51.358Z</updated>
+  <updated>2018-07-20T12:20:12.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>物联网</title>
-    <link href="http://yoursite.com/2018/10/21/%E7%89%A9%E8%81%94%E7%BD%91/"/>
-    <id>http://yoursite.com/2018/10/21/物联网/</id>
-    <published>2018-10-21T07:32:15.000Z</published>
-    <updated>2018-10-21T07:53:51.358Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="物联网作业：二维码生成与识别"><a href="#物联网作业：二维码生成与识别" class="headerlink" title="物联网作业：二维码生成与识别"></a>物联网作业：二维码生成与识别</h1><h3 id="姓名-学号-班级"><a href="#姓名-学号-班级" class="headerlink" title="姓名          学号            班级"></a>姓名          学号            班级</h3><h3 id="组长：张腾辉-201608030121-网络161"><a href="#组长：张腾辉-201608030121-网络161" class="headerlink" title="组长：张腾辉  201608030121      网络161"></a>组长：张腾辉  201608030121      网络161</h3><h3 id="成员：冯明伟-201608030123-网络161卓越"><a href="#成员：冯明伟-201608030123-网络161卓越" class="headerlink" title="成员：冯明伟  201608030123      网络161卓越"></a>成员：冯明伟  201608030123      网络161卓越</h3><h3 id="成员：李鹏举-201608030114-网络161卓越"><a href="#成员：李鹏举-201608030114-网络161卓越" class="headerlink" title="成员：李鹏举  201608030114      网络161卓越"></a>成员：李鹏举  201608030114      网络161卓越</h3>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;物联网作业：二维码生成与识别&quot;&gt;&lt;a href=&quot;#物联网作业：二维码生成与识别&quot; class=&quot;headerlink&quot; title=&quot;物联网作业：二维码生成与识别&quot;&gt;&lt;/a&gt;物联网作业：二维码生成与识别&lt;/h1&gt;&lt;h3 id=&quot;姓名-学号-班级&quot;&gt;&lt;a href
-      
-    
-    </summary>
-    
-    
-      <category term="作业" scheme="http://yoursite.com/tags/%E4%BD%9C%E4%B8%9A/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -67,7 +44,7 @@
     <published>2018-07-21T10:21:16.000Z</published>
     <updated>2018-10-21T07:33:45.924Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级表题"><a href="#三级表题" class="headerlink" title="三级表题"></a>三级表题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>####### 七级标题  // 错误代码</p><p>########  八级标题  // 错误代码<br><a id="more"></a></p><p>世界如此美好<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">int main() </span><br><span class="line">&#123;</span><br><span class="line">  cout&lt;&lt;&quot;全世界都在等待着你的成功&quot;&lt;&lt;endl;</span><br><span class="line">  return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>世界如此美好</p><pre><code>int main() {  cout&lt;&lt;&quot;hello,world&quot;&lt;&lt;endl;  return 0;}</code></pre><p>世界如此美好<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> num = <span class="number">0</span>;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">5</span>; i++) &#123;</span><br><span class="line">    num+=i;</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.log(num);</span><br></pre></td></tr></table></figure></p><p>世界如此美好<br>Use the <code>printf(&quot;全世界都在等待着你的成功&quot;)</code> function.</p><p><del>世界如此美好</del></p><p><del>我却如此糟糕</del></p><p>全世界都在等待着你的成功</p><table><thead><tr><th style="text-align:center">a</th><th style="text-align:left">b</th><th style="text-align:right">c</th></tr></thead><tbody><tr><td style="text-align:center">居中</td><td style="text-align:left">左对齐</td><td style="text-align:right">右对齐</td></tr><tr><td style="text-align:center">=========</td><td style="text-align:left">===============</td><td style="text-align:right">============</td></tr></tbody></table><table><thead><tr><th style="text-align:center">a</th><th style="text-align:left">b</th><th style="text-align:right">c</th></tr></thead><tbody><tr><td style="text-align:center">居中</td><td style="text-align:left">左对齐</td><td style="text-align:right">右对齐</td></tr><tr><td style="text-align:center">=========</td><td style="text-align:left">===============</td><td style="text-align:right">============</td></tr></tbody></table><p><a href="http://www.baidu.com/&quot;图片&quot;" target="_blank" rel="noopener">百度1</a></p><p>[百度2][2]{:target=”_blank”}<br>[2]: <a href="http://www.baidu.com/" target="_blank" rel="noopener">http://www.baidu.com/</a>   “百度二下”</p><p><a href="mailto:&#49;&#x39;&#x32;&#49;&#x37;&#54;&#52;&#49;&#x31;&#50;&#x40;&#113;&#x71;&#46;&#99;&#x6f;&#109;" target="_blank" rel="noopener">&#49;&#x39;&#x32;&#49;&#x37;&#54;&#52;&#49;&#x31;&#50;&#x40;&#113;&#x71;&#46;&#99;&#x6f;&#109;</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级表题"><a href="#三级表题" class="headerlink" title="三级表题"></a>三级表题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>####### 七级标题  // 错误代码</p><p>########  八级标题  // 错误代码<br><a id="more"></a></p><p>世界如此美好<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">int main() </span><br><span class="line">&#123;</span><br><span class="line">  cout&lt;&lt;&quot;全世界都在等待着你的成功&quot;&lt;&lt;endl;</span><br><span class="line">  return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>世界如此美好</p><pre><code>int main() {  cout&lt;&lt;&quot;hello,world&quot;&lt;&lt;endl;  return 0;}</code></pre><p>世界如此美好<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> num = <span class="number">0</span>;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">5</span>; i++) &#123;</span><br><span class="line">    num+=i;</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.log(num);</span><br></pre></td></tr></table></figure></p><p>世界如此美好<br>Use the <code>printf(&quot;全世界都在等待着你的成功&quot;)</code> function.</p><p><del>世界如此美好</del></p><p><del>我却如此糟糕</del></p><p>全世界都在等待着你的成功</p><table><thead><tr><th style="text-align:center">a</th><th style="text-align:left">b</th><th style="text-align:right">c</th></tr></thead><tbody><tr><td style="text-align:center">居中</td><td style="text-align:left">左对齐</td><td style="text-align:right">右对齐</td></tr><tr><td style="text-align:center">=========</td><td style="text-align:left">===============</td><td style="text-align:right">============</td></tr></tbody></table><table><thead><tr><th style="text-align:center">a</th><th style="text-align:left">b</th><th style="text-align:right">c</th></tr></thead><tbody><tr><td style="text-align:center">居中</td><td style="text-align:left">左对齐</td><td style="text-align:right">右对齐</td></tr><tr><td style="text-align:center">=========</td><td style="text-align:left">===============</td><td style="text-align:right">============</td></tr></tbody></table><p><a href="http://www.baidu.com/&quot;图片&quot;" target="_blank" rel="noopener">百度1</a></p><p>[百度2][2]{:target=”_blank”}<br>[2]: <a href="http://www.baidu.com/" target="_blank" rel="noopener">http://www.baidu.com/</a>   “百度二下”</p><p><a href="mailto:&#49;&#x39;&#x32;&#49;&#x37;&#x36;&#x34;&#x31;&#49;&#50;&#x40;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;" target="_blank" rel="noopener">&#49;&#x39;&#x32;&#49;&#x37;&#x36;&#x34;&#x31;&#49;&#50;&#x40;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;</a></p>]]></content>
     
     <summary type="html">
     
